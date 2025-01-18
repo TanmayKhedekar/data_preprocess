@@ -1,0 +1,27 @@
+No.,Time,Source,Destination,Protocol,Length,Info,Feature,Label
+1,0.0,10.1.1.167,10.1.1.165,UDP,46,64087  >  47808 Len=0,To Be Extracted,Benign
+2,1.001301,10.1.1.167,10.1.1.165,UDP,46,64088  >  47808 Len=0,To Be Extracted,Benign
+3,2.0078,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 object-identifier ",To Be Extracted,Benign
+4,2.062391,10.1.1.165,10.1.1.167,BACnet-APDU,69,"Complex-ACK     readProperty[  1] device,4194303 object-identifier device,500 ",To Be Extracted,Benign
+5,2.0632,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 vendor-identifier ",To Be Extracted,Benign
+6,2.115099,10.1.1.165,10.1.1.167,BACnet-APDU,66,"Complex-ACK     readProperty[  1] device,4194303 vendor-identifier ",To Be Extracted,Benign
+7,2.115871,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 vendor-name ",To Be Extracted,Benign
+8,2.170638,10.1.1.165,10.1.1.167,BACnet-APDU,73,"Complex-ACK     readProperty[  1] device,4194303 vendor-name ",To Be Extracted,Benign
+9,2.171466,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 firmware-revision ",To Be Extracted,Benign
+10,2.226074,10.1.1.165,10.1.1.167,BACnet-APDU,87,"Complex-ACK     readProperty[  1] device,4194303 firmware-revision ",To Be Extracted,Benign
+11,2.226907,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 application-software-version ",To Be Extracted,Benign
+12,2.281871,10.1.1.165,10.1.1.167,BACnet-APDU,66,"Complex-ACK     readProperty[  1] device,4194303 application-software-version ",To Be Extracted,Benign
+13,2.282621,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 object-name ",To Be Extracted,Benign
+14,2.337381,10.1.1.165,10.1.1.167,BACnet-APDU,79,"Complex-ACK     readProperty[  1] device,4194303 object-name ",To Be Extracted,Benign
+15,2.337853,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 model-name ",To Be Extracted,Benign
+16,2.392831,10.1.1.165,10.1.1.167,BACnet-APDU,91,"Complex-ACK     readProperty[  1] device,4194303 model-name ",To Be Extracted,Benign
+17,2.393389,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 description ",To Be Extracted,Benign
+18,2.448074,10.1.1.165,10.1.1.167,BACnet-APDU,66,"Complex-ACK     readProperty[  1] device,4194303 description ",To Be Extracted,Benign
+19,2.448443,10.1.1.167,10.1.1.165,BACnet-APDU,63,"Confirmed-REQ   readProperty[  1] device,4194303 location ",To Be Extracted,Benign
+20,2.508711,10.1.1.165,10.1.1.167,BACnet-APDU,66,"Complex-ACK     readProperty[  1] device,4194303 location ",To Be Extracted,Benign
+21,2.509199,10.1.1.167,10.1.1.165,BVLC,50,BACnet Virtual Link Control BVLC Function Read-Broadcast-Distribution-Table ,To Be Extracted,Benign
+22,2.569515,10.1.1.165,10.1.1.167,BVLC,52,BACnet Virtual Link Control BVLC Function BVLC-Result ,To Be Extracted,Benign
+23,20.911727,10.1.1.167,10.1.1.165,UDP,46,54668  >  47808 Len=0,To Be Extracted,Benign
+24,21.913038,10.1.1.167,10.1.1.165,UDP,46,54669  >  47808 Len=0,To Be Extracted,Benign
+25,22.91874,10.1.1.167,10.1.1.165,BVLC,52,BACnet Virtual Link Control BVLC Function Register-Foreign-Device ,To Be Extracted,Benign
+26,22.970497,10.1.1.165,10.1.1.167,BVLC,52,BACnet Virtual Link Control BVLC Function BVLC-Result ,To Be Extracted,Benign
